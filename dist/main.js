@@ -1,0 +1,1 @@
+(()=>{"use strict";document.appendChild(((e,t)=>{const n=document.createElement(e);return n.innerText=t,n})("h1","Hello World"))})();
